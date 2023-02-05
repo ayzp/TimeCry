@@ -1,0 +1,42 @@
+{
+    "QuadrantI": {
+        "alias": "TypeI",
+        "CenterThing": {
+            "CenterWork": 100,
+            "Doc": 100
+        },
+        "OrganizationThing": {
+            "OrganizationWork": 100
+        },
+        "PossibleSelf": {
+            "PersonalBrand": 100,
+            "ThoughtSelf": 100,
+            "Doc": 100
+        }
+    },
+    
+    "QuadrantII": {
+        "alias": "TypeII",
+        "English": 100,
+        "Program": 100,
+        "Reading": 100,
+        "Skill": 100,
+        "Daily": 100
+    },
+
+    "QuadrantIII": {
+        "alias": "TypeIII",
+        "Entertainment": 100,
+        "Socializing": 100,
+        "Others": 100
+    },
+
+    "QuadrantIV": {
+        "alias": "TypeIV",
+        "Eating": 100,
+        "Sleeping": 100,
+        "Commuting": 100,
+        "Housework": 100,
+        "TimeManagement": 100
+    }
+}
