@@ -28,7 +28,10 @@ cry for the little time; memory
 + Add more...
 
 
-
+# 技术使用
++ Python
++ 面向对象编程
++ add more....3-概要设计.md
 
 
 # Add More...
